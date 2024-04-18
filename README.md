@@ -1,2 +1,13 @@
-# books-inventory
-A simple books inventory management created using Python and SQLite.
+## Library Management System
+Books inventory management system created using Python and SQLite.
+
+## Requirements
+Python 3.12
+
+## Recommended Code Editor
+Visual Studio Code
+
+## How to Run
+```
+python src/app.py
+```
